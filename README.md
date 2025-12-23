@@ -1,5 +1,9 @@
-![About me](https://user-images.githubusercontent.com/100543359/170069296-5ed91b68-e612-4b6e-8276-813750d7b2d8.png "Please don't poke me.")
+![About me](AboutMe.png "Please don't poke me.")
 
-Hi! I'm a random folf on GitHub who is definitely not a furry. I don't have public projects yet because I also do schoolwork on this account and don't want my teacher to come across them.
+Hi! I'm Emile, your local folf on Github! I don't go to school anymore, so expect to start seeing some public projects on my account!
 
-My friends are @Turtlepus11, @AolaDragonFang200, and some others whose GitHub usernames I don't know.
+My friends are @Turtlepus11, @AolaDragonFang200, @AngusWheatley, and @mbgamer05. There's also a few others who don't program and therefore don't have Github.
+
+&nbsp;
+
+...No, this is not a costume. There is no human.
